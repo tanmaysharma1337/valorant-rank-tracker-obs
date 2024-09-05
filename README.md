@@ -29,8 +29,6 @@ Features:
   
  ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 - [Python](https://www.python.org/)
 - [Tkinter](https://docs.python.org/3/library/tkinter.html)
 - [Pillow](https://pypi.org/project/pillow/)
